@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working on networking and security
 - 🌱 I’m currently learning !
-- 👯 I’m looking to collaborate
+- 👯 I’m looking to collaborate.
 - 😄 Pronouns: She/Her
 
