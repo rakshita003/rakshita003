@@ -20,7 +20,7 @@ I am currently working on improving my skills in natural language processing and
 
 ## Collaboration
 
-I am always looking for opportunities to collaborate with other data scientists and researchers. If you are interested in working together, please feel free to reach out to me at [email address] or connect with me on [LinkedIn](https://www.linkedin.com/in/rakshita-mathur).
+I am always looking for opportunities to collaborate with other data scientists and researchers. If you are interested in working together, please feel free to reach out to me at [email address](mailto:rakshita.mathur3600@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rakshitamathur/).
 
 ## Pronouns
 
