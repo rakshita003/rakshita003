@@ -2,7 +2,7 @@
 
 ### Hello, I am Rakshita Mathur. Welcome to My lil-Hub!
 
-I am a data scientist with a background in computer science. I am currently a 3rd-year Computer Sciene student at uOttawa. My areas of expertise include machine learning, data visualization, and deep leaning. 
+I am a data scientist with a background in computer science. I am currently a 3rd-year Computer Science student at uOttawa. My areas of expertise include machine learning, data visualization, and deep leaning. 
 
 ## Projects
 
