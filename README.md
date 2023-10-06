@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hello and welcome to my little corner of GitHub. I'm Rakshita Mathur, a passionate data scientist with a background in computer science. Currently, I'm a 3rd-year Computer Science student at the University of Ottawa. My areas of expertise include machine learning, data visualization, and deep learning.
+Hello and welcome to my little corner of GitHub. I'm Rakshita Mathur, a passionate data scientist with a background in computer science. Currently, I'm a 4th-year Computer Science student at the University of Ottawa. My areas of expertise include machine learning, data visualization, and deep learning.
 
 ## Portfolio
 
