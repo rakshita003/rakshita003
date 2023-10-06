@@ -1,7 +1,7 @@
 
 ### Hello, I am Rakshita Mathur. Welcome to My lil-Hub!
 
-##Look at my [Portfolio](https://rakshita003.github.io/Personal-Portfolio/)
+## Look at my [Portfolio](https://rakshita003.github.io/Personal-Portfolio/)
 
 I am a data scientist with a background in computer science. I am currently a 3rd-year Computer Science student at uOttawa. My areas of expertise include machine learning, data visualization, and deep learning. 
 
