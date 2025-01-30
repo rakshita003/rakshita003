@@ -36,10 +36,15 @@ Hey there! I'm **Rakshita Mathur**, a passionate **AI enthusiast, software devel
 
 ## 🎓 Certifications
 📜 **AWS Solutions Architect Associate (SAA-C03)** 
+
 📜 **Google Cybersecurity Professional Certificate** 
-📜 **IBM AI Engineering** - Deep Learning, Scipy, Scikit-Learn, Apache Spark 
-📜 **Applied Data Science by IBM** - Data analysis, visualization, and ML  
-📜 **Statistics with Python** - Advanced statistical modeling & inference  
+
+📜 **IBM AI Engineering** - Deep Learning, Scipy, Scikit-Learn, Apache Spark
+
+📜 **Applied Data Science by IBM** - Data analysis, visualization, and ML
+
+📜 **Statistics with Python** - Advanced statistical modeling & inference 
+
 📜 **Python for Everybody** - Full-stack Python development  
  
 ## 💡 Always Learning
