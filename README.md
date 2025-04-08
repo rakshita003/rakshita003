@@ -28,7 +28,7 @@ Hey there! I'm Rakshita Mathur, an AI enthusiast, software developer, and cybers
 - 📜 **Python for Everybody** - **Full-stack Python development**
 
 ### 💡 **Always Learning**
-I'm continuously diving deeper into **AI research**, **cloud security**, and ***cybersecurity**. Let's collaborate and build something amazing!
+I'm continuously diving deeper into **AI research**, **cloud security**, and **cybersecurity**. Let's collaborate and build something amazing!
 
 ### 📬 **Let’s Connect!**
 - 📧 Email: [rakshita.mathur3600@gmail.com](mailto:rakshita.mathur3600@gmail.com)
