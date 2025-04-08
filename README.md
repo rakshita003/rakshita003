@@ -1,6 +1,6 @@
 # 👋 **Welcome to My GitHub Universe!**
 
-Hey there! I'm Rakshita Mathur, a passionate AI enthusiast, software developer, and cybersecurity learner, currently on a mission to bridge the gap between AI and security. With a B.Sc. Honors in Computer Science from the University of Ottawa, I am excited to continue expanding my skill set in **cybersecurity** and **cloud computing** as I work on various practical labs, certifications and projects.
+Hey there! I'm Rakshita Mathur, an AI enthusiast, software developer, and cybersecurity learner, on a mission to bridge the gap between AI and cybersecurity. Holding a B.Sc. Honors in Computer Science from the University of Ottawa, I'm passionate about expanding my expertise in cloud computing and cybersecurity. I’m actively working on hands-on projects, labs, and certifications to continue growing my skill set and making an impact in these dynamic fields.
 
 ### 🔥 **What I Do**
 - **AI & Machine Learning**: From designing intelligent models using **Graph Neural Networks (GNNs)** to building high-performance systems with **Convolutional Neural Networks (CNNs)**, I leverage cutting-edge techniques to solve real-world challenges.
