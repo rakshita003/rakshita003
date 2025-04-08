@@ -1,4 +1,4 @@
-👋 **Welcome to My GitHub Universe!**
+# 👋 **Welcome to My GitHub Universe!**
 
 Hey there! I'm Rakshita Mathur, a passionate AI enthusiast, software developer, and cybersecurity learner, currently on a mission to bridge the gap between AI and security. With a B.Sc. Honors in Computer Science from the University of Ottawa, I am excited to continue expanding my skill set in **cybersecurity** and **cloud computing** as I work on various practical labs, certifications and projects.
 
