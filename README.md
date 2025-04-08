@@ -1,59 +1,46 @@
-# 👋 Welcome to My GitHub Universe!
 
-Hey there! I'm **Rakshita Mathur**, a passionate **AI enthusiast, software developer, and data scientist** on a mission to build intelligent solutions that push the boundaries of technology. With a **B.Sc. Honors in Computer Science (Data Science Concentration) from the University of Ottawa**, I specialize in **machine learning, deep learning, computer vision, NLP, and software development**.
+#👋 **Welcome to My GitHub Universe!**
 
-🚀 **Portfolio**: [Explore My Work](https://rakshita003.github.io/Personal-Portfolio/)
+Hey there! I'm Rakshita Mathur, a passionate AI enthusiast, software developer, and cybersecurity learner, currently on a mission to bridge the gap between AI and security. With a B.Sc. Honors in Computer Science from the University of Ottawa, I am excited to continue expanding my skill set in **cybersecurity** and **cloud computing** as I work on various practical labs, certifications and projects.
 
-## 🔥 What I Do
-- **AI & Machine Learning**: From **GNNs** to **CNNs**, I love creating intelligent models.
-- **Software Development**: Building scalable and efficient applications in **Python & Java**.
-- **Data Science & Analytics**: Extracting insights using **TensorFlow, PyTorch, and OpenCV**.
-- **Cloud & Security**: Exploring AWS and cybersecurity methodologies.
+### 🔥 **What I Do**
+- **AI & Machine Learning**: From designing intelligent models using **Graph Neural Networks (GNNs)** to building high-performance systems with **Convolutional Neural Networks (CNNs)**, I leverage cutting-edge techniques to solve real-world challenges.
+- **Software Development**: Crafting robust, scalable applications with **Python** and **Java**, focusing on efficient design and seamless user experiences.
+- **Cloud & Security**: Gaining hands-on expertise in **AWS cloud solutions**, enhancing **system security**, and applying best practices in **cloud security** and **cybersecurity frameworks**.
+- **Network Security & Penetration Testing**: Conducting in-depth exploration of **network security protocols** using tools like **NMAP**, **Wireshark**, **iptables**, **SNORT**, and performing vulnerability assessments and penetration testing to secure systems.
 
-## 🏆 Featured Projects
 
-### 🕵️ Community Detection Using GNN
-- Conducted **Social Network Analysis** on GitHub user data (37,000 nodes).
-- Implemented **Graph Neural Networks, Naïve Bayes, and Logistic Regression**.
-- Achieved **87.82% accuracy** in binary node classification.
+### 🏆 **Featured Projects & Labs**
+| **Project**                           | **Description**                                                                 |
+|---------------------------------------|---------------------------------------------------------------------------------|
+| **🕵️ Community Detection Using GNN** | Conducted **Social Network Analysis** on GitHub user data (37,000 nodes), achieving **87.82% accuracy** in binary node classification. |
+| **🔍 Information Retrieval System**   | Built a robust document retrieval system using **Python**, **NLTK**, and **TF-IDF**. |
+| **🖼️ Image Classification Using CNN** | Developed an **image classification model** with **TensorFlow** on the **CIFAR-10 dataset**. |
+| **💻 Cryptographic Algorithms**       | Implemented various **cryptographic algorithms** and **protocols** in Python, including **RSA**, **DSA**, **ECDH**, and **HMAC**. . |
+| **🔐 Cybersecurity Labs**             | Gained hands-on experience with **network security**, **penetration testing**, and **system vulnerabilities** through a series of structured cybersecurity labs. These labs cover topics like **NMAP**, **Wireshark**, **buffer overflows**, and **privilege escalation**. |
 
-### 🔍 Information Retrieval System
-- Built an **efficient document retrieval system** using **Python, NLTK, and TF-IDF**.
-- Optimized **query expansion** and automated **ranking accuracy**.
-- Processed **322 documents**, creating an inverted index of **450k words**.
+### 🎓 **Certifications**
+- 📜 **AWS Security - Specialty Certification (SCS-C02)** *(In Progress)*
+- 📜 **AWS Solutions Architect Associate (SAA-C03)**
+- 📜 **Google Cybersecurity Professional Certificate** 
+- 📜 **IBM AI Engineering** - **Deep Learning**, **Scipy**, **Scikit-Learn**, **Apache Spark**
+- 📜 **Applied Data Science by IBM** - **Data analysis**, **visualization**, and **ML**
+- 📜 **Statistics with Python** - **Advanced statistical modeling & inference**
+- 📜 **Python for Everybody** - **Full-stack Python development**
 
-### 🖼️ Image Classification Using CNN
-- Developed an **image classification model** using **TensorFlow**.
-- Trained on the **CIFAR-10 dataset**, achieving high accuracy.
+### 💡 **Always Learning**
+I'm continuously diving deeper into **AI research**, **cloud security**, and ***cybersecurity**. Let's collaborate and build something amazing!
 
-### 📌 DBSCAN Implementation for Object Detection
-- Implemented **DBSCAN clustering** in Java for **GPS coordinate clustering**.
-- Enhanced **outlier detection** and reduced **processing time by 15%**.
-
-### 🤖 AI Data Training (Freelance @ G2i)
-- **Ranked & labeled 1,000+ prompts** for **Reinforcement Learning from Human Feedback (RLHF)**.
-- **Refined AI model training workflows** for better model performance.
-
-## 🎓 Certifications
-📜 **AWS Solutions Architect Associate (SAA-C03)** 
-
-📜 **Google Cybersecurity Professional Certificate** 
-
-📜 **IBM AI Engineering** - Deep Learning, Scipy, Scikit-Learn, Apache Spark
-
-📜 **Applied Data Science by IBM** - Data analysis, visualization, and ML
-
-📜 **Statistics with Python** - Advanced statistical modeling & inference 
-
-📜 **Python for Everybody** - Full-stack Python development  
- 
-## 💡 Always Learning
-I'm diving deeper into **AI Research, Cloud Security, and Large-Scale ML Systems**. Let’s **collaborate** and build something amazing!
-
-## 📬 Let's Connect!
+### 📬 **Let’s Connect!**
 - 📧 Email: [rakshita.mathur3600@gmail.com](mailto:rakshita.mathur3600@gmail.com)
 - 💼 LinkedIn: [Rakshita Mathur](https://www.linkedin.com/in/rakshitamathur/)
 - 🏡 Website: [Portfolio](https://rakshita003.github.io/Personal-Portfolio/)
+
+---
+
+
+
+
 
 
 
