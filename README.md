@@ -27,6 +27,8 @@ Hey there! I'm Rakshita Mathur, an AI enthusiast, software developer, and cybers
 - 📜 **Statistics with Python** - **Advanced statistical modeling & inference**
 - 📜 **Python for Everybody** - **Full-stack Python development**
 
+### 🎖️ **Credly Profile** [Rakshita Mathur's Credly Achievements](https://www.credly.com/users/rakshita-mathur)
+
 ### 💡 **Always Learning**
 I'm continuously diving deeper into **AI research**, **cloud security**, and **cybersecurity**. Let's collaborate and build something amazing!
 
